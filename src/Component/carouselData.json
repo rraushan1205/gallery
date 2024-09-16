@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "src": "../../img/IMG_5380.jpg",
+      "alt": "Image 1 for carousel"
+    },
+    {
+      "src": "../../img/IMG_5462.jpg",
+      "alt": "Image 2 for carousel"
+    },
+    {
+      "src": "../../img/IMG_5542.jpg",
+      "alt": "Image 3 for carousel"
+    }
+  ]
+}
